@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mobpro 1</string>
+    <string name="gambar">Gambar %1$s</string>
+    <string name="error">Gagal memuat data.. Koneksi error</string>
+    <string name="try_again">Coba lagi</string>
+    <string name="profil">Profil</string>
+    <string name="tutup">Tutup</string>
+    <string name="logout">Logout</string>
+    <string name="tambah_motor">Tambah hewan</string>
+    <string name="nama_motor">Nama Motor</string>
+    <string name="cc_motor">CC Motor</string>
+    <string name="harga">Harga</string>
+    <string name="batal">Batal</string>
+    <string name="simpan">Simpan</string>
+    <string name="hapus">Hapus</string>
+    <string name="hapus_data">Hapus_data?</string>
+</resources>
